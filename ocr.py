@@ -160,7 +160,7 @@ def car_race_game():
     road_radius_y = 198
 
     # Set the directory for resources
-    current_dir = os.path.dirname(__file__)
+    current_dir = os.path.dirname(]brook/ocrpy)
     resource_dir = os.path.join(current_dir, 'image')
     music_dir = os.path.join(current_dir, 'music')
 
